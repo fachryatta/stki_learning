@@ -72,7 +72,7 @@ def get_food_image(food_name):
 # UI HEADER
 # =========================================================
 st.markdown("""
-<h1 style="text-align:center;">🍽️ Aplikasi Rekomendasi Makanan Luar Negeri</h1>
+<h1 style="text-align:center;">Aplikasi Rekomendasi Makanan Luar Negeri</h1>
 <p style="text-align:center;">Sistem rekomendasi berbasis TF-IDF & Cosine Similarity</p>
 <hr>
 """, unsafe_allow_html=True)
